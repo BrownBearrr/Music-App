@@ -8,7 +8,7 @@ export default function Sider() {
       <div className="bg-[#212121] h-[100vh] w-[280px] fixed  ">
         <div className="bg-[#1C1C1C] py-[25px] px-[20px] ">
           <Link href="/">
-            <img src="/logo.svg" alt="logo" className="h-[42px] w-auto  " />
+            <img src="/Logo.svg" alt="logo" className="h-[42px] w-auto  " />
           </Link>
         </div>
 
